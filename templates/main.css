@@ -4,3 +4,7 @@ table, tr, th, td{
 body{
     background-color: rgb(32, 178, 170);
 }
+
+h1, h3, h5, p{
+    text-align: centre
+}        
