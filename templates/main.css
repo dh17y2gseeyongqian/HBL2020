@@ -16,3 +16,8 @@ body{
 h1, h3, h5, p{
     text-align: centre;
 }        
+
+li{
+  color: rgb(0,206,209)
+}
+
